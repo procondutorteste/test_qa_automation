@@ -6,16 +6,17 @@ O foco do teste é a automação e também um pouco de conhecimentos em teste de
 
 ## Teste 1 - Automação WEB
 Criar um framework de teste que:
-1. Acessa uma página que gera dados fictícios de pessoas, como o https://www.fakenamegenerator.com/ e armazena suas informações pessoais
-2. Com os dados armazenados, o cadastra no facebook ou gmail ou twitter (ou todos se quiser)
+1. Acessar uma página que gera dados fictícios de pessoas, como o https://www.fakenamegenerator.com/ e armazenar essas informações
+2. Com os dados armazenados, se cadastrar no facebook ou gmail ou twitter (ou todos se quiser)
 3. Validar o e-mail de confirmação de conta (pode ser utilizado um gerador de e-mail)
 4. Acessar a conta, entrar no menu de configurações/segurança
 5. Alterar a senha
 6. Encerrar sessão
 7. Logar com a nova senha
-8. Utilizar Cucumber com java
-9. Gerar um relatório de execução com evidências
-10. Utilizar design pattern Page Object
+Obs:
+* Utilizar Cucumber com java
+* Gerar um relatório de execução com evidências
+* Utilizar design pattern Page Object
 
 ## Teste 2 - Automação Mobile
 Utilizar o teste anterior para rodar no navegador de um dispositivo móvel
@@ -36,3 +37,7 @@ Elaborar um script utilizando o Jmeter
 * Organização do projeto
 * BDD (Cucumber ) - Utilização, criação de features e sintaxe utilizando Gherkin
 * Criação de scripts de performance pelo Jmeter (principais elementos, controladores, consumo de dados)
+
+Obs: Não se esqueça de explicar rodar o teste.
+Bom trabalho!:sunglasses:
+
