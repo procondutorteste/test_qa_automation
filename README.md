@@ -38,6 +38,6 @@ Elaborar um script utilizando o Jmeter
 * BDD (Cucumber ) - Utilização, criação de features e sintaxe utilizando Gherkin
 * Criação de scripts de performance pelo Jmeter (principais elementos, controladores, consumo de dados)
 
-Obs: Não se esqueça de explicar rodar o teste.
-Bom trabalho!:sunglasses:
+Obs: Não se esqueça de explicar como rodar o teste.
+Bom trabalho! :sunglasses:
 
