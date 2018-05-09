@@ -6,7 +6,7 @@ O foco do teste é a automação e também um pouco de conhecimentos em teste de
 
 ## Teste 1 - Automação WEB
 Criar um framework de teste que:
-1. Acessar uma página que gera dados fictícios de pessoas, como o https://www.fakenamegenerator.com/ e armazenar essas informações
+1. Acesse uma página que gera dados fictícios de pessoas, como o https://www.fakenamegenerator.com/ e armazene essas informações
 2. Com os dados armazenados, se cadastrar no facebook ou gmail ou twitter (ou todos se quiser)
 3. Validar o e-mail de confirmação de conta (pode ser utilizado um gerador de e-mail)
 4. Acessar a conta, entrar no menu de configurações/segurança
@@ -25,7 +25,7 @@ Utilizar o teste anterior para rodar no navegador de um dispositivo móvel
 3. Utilizar o Chrome
 
 ## Teste 3 - Script performance
-Elaborar um script utilizando o Jmeter
+Elaborar um script utilizando o Jmeter.
 1. Escolha uma das APIs de https://github.com/toddmotto/public-apis ou quaquer outra API pública
 2. Criar um script no Jmeter "chamando" essa API
 3. Validar o retorno da API
